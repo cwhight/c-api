@@ -1,0 +1,45 @@
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.exe
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.deps.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.dev.json
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Web API.pdb
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfoInputs.cache
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.AssemblyInfo.cs
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.csproj.CopyComplete
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.dll
+C:\Users\cdwhi\source\repos\Web API\Web API\obj\Debug\netcoreapp3.1\Web API.pdb
